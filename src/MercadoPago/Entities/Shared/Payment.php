@@ -2,7 +2,8 @@
 /**
  
  */
-namespace MercadoPago;
+namespace MercadoPago\Entities\Shared;
+use MercadoPago\Entity;
 use MercadoPago\Annotation\RestMethod;
 use MercadoPago\Annotation\RequestParam;
 use MercadoPago\Annotation\Attribute; 

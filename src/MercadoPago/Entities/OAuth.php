@@ -2,7 +2,8 @@
 /**
  * OAuth class file
  */
-namespace MercadoPago;
+namespace MercadoPago\Entities;
+use MercadoPago\Entity;
 use MercadoPago\Annotation\RestMethod;
 use MercadoPago\Annotation\Attribute; 
 

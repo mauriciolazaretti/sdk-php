@@ -2,7 +2,8 @@
 /**
  * Discount Campaign class file
  */
-namespace MercadoPago;
+namespace MercadoPago\Entities;
+use MercadoPago\Entity;
 
 use http\Params;
 use MercadoPago\Annotation\RestMethod;
